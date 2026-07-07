@@ -2,11 +2,12 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+published: false # set to true (and nav: true) to bring the CV page back
+nav: false
+nav_order: 2
+cv_pdf: # drop a PDF in assets/pdf/ and reference it here, or use an external link
+cv_format: rendercv # options: rendercv, jsonresume (needs _data/cv.yml or a resume.json)
+description: My curriculum vitae.
 toc:
   sidebar: left
 ---

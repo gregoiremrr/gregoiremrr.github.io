@@ -1,14 +1,14 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# This file contains the social media links and usernames of the author.
+# Icons are rendered by the jekyll-socials plugin in the order defined here.
+# See https://github.com/george-gca/jekyll-socials for the full list of supported keys.
+
+email: gregoire.mourre@inria.fr # your email address
+github_username: gregoiremrr # https://github.com/gregoiremrr
+linkedin_username: gregoire-mourre # https://www.linkedin.com/in/gregoire-mourre/
+x_username: MourreG # https://twitter.com/MourreG (X / Twitter)
+# rss_icon: true # uncomment to show the RSS feed icon (feed at /feed.xml)
+
+# TODO(gregoire): you don't have these yet — uncomment and fill in once you do.
+# scholar_userid: # your Google Scholar user ID (the "user=" value in your profile URL)
+# orcid_id: # your ORCID, e.g. 0000-0002-1825-0097
+# cv_pdf: /assets/pdf/cv.pdf # path to a downloadable CV PDF, once you add one
