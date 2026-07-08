@@ -34,8 +34,8 @@ latest_posts:
 - **Flow-based models** (diffusion models, flow matching, consistency models, flow map models, mean flow models, etc.)
 - **Distribution-matching models** (GANs, drifting models, Wasserstein flow models, etc.)
 
-I'm a PhD student working on generative modeling, split between the [ARCHES](https://team.inria.fr/arches/) project-team at [**Inria Paris**](https://www.inria.fr/en) and the [**Criteo AI Lab (CAIL, FDL team)**](https://ailab.criteo.com/) in Paris. I am supervised by [Claire Monteleoni](https://team.inria.fr/arches/people/claire-monteleoni/), [Emmanuel de Bézenac](https://emmanuel-de-bezenac.github.io), [Jean-Yves Franceschi](https://jyfranceschi.fr) and [Thibaut Issenhuth](https://thibautissenhuth.github.io).
+I'm a **PhD student** working on generative modeling, split between the [ARCHES](https://team.inria.fr/arches/) project-team at [**Inria Paris**](https://www.inria.fr/en) and the [**Criteo AI Lab (CAIL, FDL team)**](https://ailab.criteo.com/) in Paris. I am supervised by [Claire Monteleoni](https://team.inria.fr/arches/people/claire-monteleoni/), [Emmanuel de Bézenac](https://emmanuel-de-bezenac.github.io), [Jean-Yves Franceschi](https://jyfranceschi.fr) and [Thibaut Issenhuth](https://thibautissenhuth.github.io).
 
-I'm especially interested in one-step and few-step generative models for fast inference, and I care about both the underlying theory and the implementation tricks that make these methods actually work.
+I'm especially interested in **one-step** and **few-step** generative models for **fast inference**, and I care about both the underlying theory and the implementation tricks that make these methods actually work.
 
 Before starting my PhD, I spent time as a deep learning research intern at Dassault Systèmes working on generative world models. Outside of research, you'll usually find me bouldering, running, at the cinema, or losing at board games.
